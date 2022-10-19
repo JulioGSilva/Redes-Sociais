@@ -35,6 +35,18 @@ main {
     background-repeat: no-repeat;
 }
 
-#madera {
-    
+#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 472px;
+    width: 268px;
+}
+
+#icone {
+    background: black url(pacote-d013/imagens/logo-facebook.jpg) no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+    height: 80px;
+    width: 80px;
 }
